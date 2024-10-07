@@ -22,6 +22,25 @@ class Solution:
                 return q
             elif p.val==node.val:
                 return p
+        #BFS
+        if p.val > q.val:
+            p,q=q,p
+        qq=deque()
+        qq.append(root)
+        while qq:
+            node = qq.popleft()
+
+            if p.val <= node.val <= q.val:
+                return node
+
+            if q.val < node.val and node.left:
+                qq.append(node.left)
+            elif p.val>node.val and node.right:
+                qq.append(node.right)
+                
+        return None
+
+        #DFS
         if p.val > q.val:
             return dfs(root,q,p)
         return dfs(root,p,q)
