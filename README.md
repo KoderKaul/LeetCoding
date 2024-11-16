@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KoderKaul/LeetCoding/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
