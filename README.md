@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KoderKaul/LeetCoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -142,4 +143,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/KoderKaul/LeetCoding/tree/master/0670-maximum-swap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
