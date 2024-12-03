@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/KoderKaul/LeetCoding/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/KoderKaul/LeetCoding/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Shortest Path
 |  |
 | ------- |
