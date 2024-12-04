@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/KoderKaul/LeetCoding/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoderKaul/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/KoderKaul/LeetCoding/tree/master/0295-find-median-from-data-stream) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/KoderKaul/LeetCoding/tree/master/3195-separate-black-and-white-balls) |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 ## Trie
 |  |
