@@ -18,7 +18,7 @@ class Solution:
         
 
         q = deque()
-        q.append(beginWord)
+        q.append(endWord)
         visited=set()
         jumps=1
         while q:
@@ -28,7 +28,7 @@ class Solution:
                 possibleHashes= combo[word]
                 visited.add(word)
                 for ph in possibleHashes:
-                    if ph in combo[endWord]:
+                    if ph in combo[beginWord]:
                         return jumps+1
                     for wr in hashes[ph]:
                         if wr not in visited:
