@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2563-split-message-based-on-limit](https://github.com/KoderKaul/LeetCoding/tree/master/2563-split-message-based-on-limit) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KoderKaul/LeetCoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/KoderKaul/LeetCoding/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KoderKaul/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
+| [2563-split-message-based-on-limit](https://github.com/KoderKaul/LeetCoding/tree/master/2563-split-message-based-on-limit) |
 ## Binary Tree
 |  |
 | ------- |
