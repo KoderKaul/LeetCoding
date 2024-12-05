@@ -1,46 +1,39 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        
+
+        def combos(word):
+            return [word[:i]+"#"+word[i+1:] for i in range(len(word))]
         if endWord not in wordList:
             return 0
-        wildcards={}
-        revwildcards={}
-
-        def addwildcards(word):
-            revwildcards[word]=[]
-            for i,w in enumerate(word):
-                wc = word[:i] + '_' + word[i+1:]
-                if wc not in wildcards:
-                    wildcards[wc] = []
-                wildcards[wc].append(word)
-
-                revwildcards[word].append(wc)
-
-
-        for word in wordList:
-            addwildcards(word)
         if beginWord not in wordList:
-            addwildcards(beginWord)
-        # else:
-        #     return abs(wordList.index(beginWord) - wordList.index(endWord))
-        # print(wildcards)
-        q=deque()
-        # for wildcards in revwildcards[endWord]:
-        #     q.append(wildcards)
-        q.append(endWord)
-        count=0
-        vis={}
-        while q:
-            count+=1
+            wordList.append(beginWord)
+        hashes=defaultdict(list)
+        combo=defaultdict(list)
+        for word in wordList:
+            possibleWords = combos(word)
+            combo[word]=possibleWords
+            for w in possibleWords:
+                hashes[w].append(word)
+        
 
-            for _ in range(len(q)):
-                word = q.popleft()
-                if beginWord == word:
-                    return count
-                wild = revwildcards[word]
-                for cards in wild:
-                    for words in wildcards[cards]:
-                        if word == words or words in vis:
-                            continue
-                        vis[words]=True
-                        q.append(words)
+        q = deque()
+        q.append(beginWord)
+        visited=set()
+        jumps=1
+        while q:
+            size=len(q)
+            for _ in range(size):
+                word=q.popleft()
+                possibleHashes= combo[word]
+                visited.add(word)
+                for ph in possibleHashes:
+                    if ph in combo[endWord]:
+                        return jumps+1
+                    for wr in hashes[ph]:
+                        if wr not in visited:
+                            q.append(wr)
+            jumps+=1
         return 0
+        
+            
