@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/KoderKaul/LeetCoding/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KoderKaul/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/KoderKaul/LeetCoding/tree/master/0330-patching-array) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KoderKaul/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KoderKaul/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 ## Trie
 |  |
