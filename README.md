@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoderKaul/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0044-wildcard-matching) |
 | [0330-patching-array](https://github.com/KoderKaul/LeetCoding/tree/master/0330-patching-array) |
 | [0670-maximum-swap](https://github.com/KoderKaul/LeetCoding/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -186,4 +189,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
