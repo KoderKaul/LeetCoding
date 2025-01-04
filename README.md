@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/KoderKaul/LeetCoding/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KoderKaul/LeetCoding/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KoderKaul/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
 | [2563-split-message-based-on-limit](https://github.com/KoderKaul/LeetCoding/tree/master/2563-split-message-based-on-limit) |
+| [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,4 +195,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0044-wildcard-matching) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
