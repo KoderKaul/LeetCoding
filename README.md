@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoderKaul/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/KoderKaul/LeetCoding/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KoderKaul/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/KoderKaul/LeetCoding/tree/master/0207-course-schedule) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/KoderKaul/LeetCoding/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Shortest Path
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/KoderKaul/LeetCoding/tree/master/0207-course-schedule) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
 ## Math
 |  |
@@ -213,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KoderKaul/LeetCoding/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/KoderKaul/LeetCoding/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
