@@ -6,7 +6,7 @@ class Solution:
         r_nse=[n]*n
         heights.append(-1)
         for i in range(n+1):
-            while s and heights[s[-1]] >= heights[i]:
+            while s and heights[s[-1]] > heights[i]:
                 r_nse[s[-1]]=i
                 s.pop()
 
