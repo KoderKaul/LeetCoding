@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/KoderKaul/LeetCoding/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/KoderKaul/LeetCoding/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KoderKaul/LeetCoding/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KoderKaul/LeetCoding/tree/master/0051-n-queens) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KoderKaul/LeetCoding/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KoderKaul/LeetCoding/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/KoderKaul/LeetCoding/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KoderKaul/LeetCoding/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KoderKaul/LeetCoding/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
