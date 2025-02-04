@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/KoderKaul/LeetCoding/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/KoderKaul/LeetCoding/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
