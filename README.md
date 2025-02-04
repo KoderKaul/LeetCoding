@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KoderKaul/LeetCoding/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KoderKaul/LeetCoding/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KoderKaul/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/KoderKaul/LeetCoding/tree/master/0330-patching-array) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/KoderKaul/LeetCoding/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KoderKaul/LeetCoding/tree/master/0048-rotate-image) |
+| [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
 | [0670-maximum-swap](https://github.com/KoderKaul/LeetCoding/tree/master/0670-maximum-swap) |
 ## Rolling Hash
 |  |
@@ -224,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KoderKaul/LeetCoding/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
