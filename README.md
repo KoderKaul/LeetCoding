@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KoderKaul/LeetCoding/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
+| [0432-all-oone-data-structure](https://github.com/KoderKaul/LeetCoding/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KoderKaul/LeetCoding/tree/master/0295-find-median-from-data-stream) |
+| [0432-all-oone-data-structure](https://github.com/KoderKaul/LeetCoding/tree/master/0432-all-oone-data-structure) |
 ## Sorting
 |  |
 | ------- |
@@ -238,4 +240,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KoderKaul/LeetCoding/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/KoderKaul/LeetCoding/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/KoderKaul/LeetCoding/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
