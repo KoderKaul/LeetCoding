@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KoderKaul/LeetCoding/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KoderKaul/LeetCoding/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
 | [0670-maximum-swap](https://github.com/KoderKaul/LeetCoding/tree/master/0670-maximum-swap) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -248,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/KoderKaul/LeetCoding/tree/master/0432-all-oone-data-structure) |
+## Combinatorics
+|  |
+| ------- |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 <!---LeetCode Topics End-->
