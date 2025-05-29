@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/KoderKaul/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/KoderKaul/LeetCoding/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KoderKaul/LeetCoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/KoderKaul/LeetCoding/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/KoderKaul/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KoderKaul/LeetCoding/tree/master/0048-rotate-image) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KoderKaul/LeetCoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KoderKaul/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
 | [2563-split-message-based-on-limit](https://github.com/KoderKaul/LeetCoding/tree/master/2563-split-message-based-on-limit) |
