@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/KoderKaul/LeetCoding/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KoderKaul/LeetCoding/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KoderKaul/LeetCoding/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/KoderKaul/LeetCoding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KoderKaul/LeetCoding/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/KoderKaul/LeetCoding/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/KoderKaul/LeetCoding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KoderKaul/LeetCoding/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 ## Prefix Sum
 |  |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KoderKaul/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KoderKaul/LeetCoding/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/KoderKaul/LeetCoding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
