@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/KoderKaul/LeetCoding/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/KoderKaul/LeetCoding/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/KoderKaul/LeetCoding/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/KoderKaul/LeetCoding/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KoderKaul/LeetCoding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KoderKaul/LeetCoding/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoderKaul/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KoderKaul/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoderKaul/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KoderKaul/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
