@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/KoderKaul/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0149-max-points-on-a-line](https://github.com/KoderKaul/LeetCoding/tree/master/0149-max-points-on-a-line) |
 | [0212-word-search-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0212-word-search-ii) |
+| [0307-range-sum-query-mutable](https://github.com/KoderKaul/LeetCoding/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/KoderKaul/LeetCoding/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KoderKaul/LeetCoding/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/KoderKaul/LeetCoding/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/KoderKaul/LeetCoding/tree/master/0432-all-oone-data-structure) |
 ## Sorting
 |  |
@@ -234,10 +236,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/KoderKaul/LeetCoding/tree/master/0307-range-sum-query-mutable) |
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/KoderKaul/LeetCoding/tree/master/0307-range-sum-query-mutable) |
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 ## Queue
 |  |
