@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/KoderKaul/LeetCoding/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KoderKaul/LeetCoding/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/KoderKaul/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0312-burst-balloons](https://github.com/KoderKaul/LeetCoding/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/KoderKaul/LeetCoding/tree/master/0354-russian-doll-envelopes) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KoderKaul/LeetCoding/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/KoderKaul/LeetCoding/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -247,11 +249,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/KoderKaul/LeetCoding/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KoderKaul/LeetCoding/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/KoderKaul/LeetCoding/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KoderKaul/LeetCoding/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 ## Queue
 |  |
