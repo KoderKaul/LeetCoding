@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/KoderKaul/LeetCoding/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2563-split-message-based-on-limit](https://github.com/KoderKaul/LeetCoding/tree/master/2563-split-message-based-on-limit) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KoderKaul/LeetCoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/KoderKaul/LeetCoding/tree/master/3195-separate-black-and-white-balls) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/KoderKaul/LeetCoding/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/KoderKaul/LeetCoding/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3737-paint-house-iv](https://github.com/KoderKaul/LeetCoding/tree/master/3737-paint-house-iv) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/KoderKaul/LeetCoding/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/KoderKaul/LeetCoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
