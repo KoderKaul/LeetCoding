@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3737-paint-house-iv](https://github.com/KoderKaul/LeetCoding/tree/master/3737-paint-house-iv) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KoderKaul/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KoderKaul/LeetCoding/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KoderKaul/LeetCoding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3737-paint-house-iv](https://github.com/KoderKaul/LeetCoding/tree/master/3737-paint-house-iv) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Stack
 |  |
 | ------- |
@@ -263,10 +267,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KoderKaul/LeetCoding/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KoderKaul/LeetCoding/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/KoderKaul/LeetCoding/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Topological Sort
 |  |
 | ------- |
