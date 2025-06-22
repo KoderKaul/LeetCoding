@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3435-block-placement-queries](https://github.com/KoderKaul/LeetCoding/tree/master/3435-block-placement-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KoderKaul/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3737-paint-house-iv](https://github.com/KoderKaul/LeetCoding/tree/master/3737-paint-house-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/KoderKaul/LeetCoding/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3737-paint-house-iv](https://github.com/KoderKaul/LeetCoding/tree/master/3737-paint-house-iv) |
 ## Stack
 |  |
 | ------- |
