@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [0833-bus-routes](https://github.com/KoderKaul/LeetCoding/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KoderKaul/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2340-total-appeal-of-a-string](https://github.com/KoderKaul/LeetCoding/tree/master/2340-total-appeal-of-a-string) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/KoderKaul/LeetCoding/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KoderKaul/LeetCoding/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KoderKaul/LeetCoding/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2340-total-appeal-of-a-string](https://github.com/KoderKaul/LeetCoding/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/KoderKaul/LeetCoding/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2563-split-message-based-on-limit](https://github.com/KoderKaul/LeetCoding/tree/master/2563-split-message-based-on-limit) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/KoderKaul/LeetCoding/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/KoderKaul/LeetCoding/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2340-total-appeal-of-a-string](https://github.com/KoderKaul/LeetCoding/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/KoderKaul/LeetCoding/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KoderKaul/LeetCoding/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
