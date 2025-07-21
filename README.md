@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/KoderKaul/LeetCoding/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KoderKaul/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KoderKaul/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2340-total-appeal-of-a-string](https://github.com/KoderKaul/LeetCoding/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoderKaul/LeetCoding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KoderKaul/LeetCoding/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/KoderKaul/LeetCoding/tree/master/0740-delete-and-earn) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KoderKaul/LeetCoding/tree/master/1121-partition-array-for-maximum-sum) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KoderKaul/LeetCoding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KoderKaul/LeetCoding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/KoderKaul/LeetCoding/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/KoderKaul/LeetCoding/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
